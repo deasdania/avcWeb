@@ -1,0 +1,5 @@
+# avcWeb
+
+goals:
+- blog
+- jurnal
